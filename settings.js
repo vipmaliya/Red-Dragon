@@ -20,7 +20,7 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
+global.alivemsg = `My name is🕊️⃞⃪⃕🍀̶||•S͢ɪͥʜɪ͓ʟͣᴇ̱ᷟʟ̷ ɴⷢᴏⷪ͢ᴠͫᴀͤ•||🐰⃞⃪⃮⃯⃕🍀
 My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
 
 global.owner = ['94772757662'] //Owner number in aive msg
@@ -28,7 +28,7 @@ global.premium = ['94772757662'] //Owner Number info
 global.ownernomer = '94772757662' //Owner Number <<<
 
 global.ownername = '🍫⃞⃕᭕පො̷̲̇ඩි̷͓༆Ꭰ͢ᴇʍ⃕ᴏ͟ɴ🍃⃞᭄"' //Owner Name
-global.botname = '🍫⃞⃕᭕පො̷̲̇ඩි̷͓༆Ꭰ͢ᴇʍ⃕ᴏ͟ɴ🍃⃞᭄' //Bot Name
+global.botname = '🕊️⃞⃪⃕🍀̶||•S͢ɪͥʜɪ͓ʟͣᴇ̱ᷟʟ̷ ɴⷢᴏⷪ͢ᴠͫᴀͤ•||🐰⃞⃪⃮⃯⃕🍀' //Bot Name
 
 global.button = '🤭මේක ටච් කරන්න📍' //Costomize A Button Name In Alive Message
 global.btnurl = '🙂🔥දැන් සැපද?😑' //Change Your Button's URL
@@ -43,7 +43,7 @@ global.sp = '⭔' //A Charactor In Menu!
 
 
 global.ig = 'https://github.com/prabhasha2006' //Github Account!
-global.footer = '©_Kumuthu.' // DO NOT CHANGE!
+global.footer = '༆ꜱɪʜᯭɪʟᴇʟ༗.' // DO NOT CHANGE!
 
 global.mess = { // Error Mesages
     success: 'Done ✅',
